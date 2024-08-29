@@ -1,4 +1,3 @@
-public class dynamicArray {
-    public static void main(String a[]) {
-    }
+public class DynamicArray {
+
 }
